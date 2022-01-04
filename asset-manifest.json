@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RE-AniShowList/asl-front/static/css/main.0ac8d805.chunk.css",
+    "main.js": "/RE-AniShowList/asl-front/static/js/main.a6457f00.chunk.js",
+    "main.js.map": "/RE-AniShowList/asl-front/static/js/main.a6457f00.chunk.js.map",
+    "runtime-main.js": "/RE-AniShowList/asl-front/static/js/runtime-main.7055451c.js",
+    "runtime-main.js.map": "/RE-AniShowList/asl-front/static/js/runtime-main.7055451c.js.map",
+    "static/js/2.731e5357.chunk.js": "/RE-AniShowList/asl-front/static/js/2.731e5357.chunk.js",
+    "static/js/2.731e5357.chunk.js.map": "/RE-AniShowList/asl-front/static/js/2.731e5357.chunk.js.map",
+    "static/js/3.24882fad.chunk.js": "/RE-AniShowList/asl-front/static/js/3.24882fad.chunk.js",
+    "static/js/3.24882fad.chunk.js.map": "/RE-AniShowList/asl-front/static/js/3.24882fad.chunk.js.map",
+    "index.html": "/RE-AniShowList/asl-front/index.html",
+    "static/css/main.0ac8d805.chunk.css.map": "/RE-AniShowList/asl-front/static/css/main.0ac8d805.chunk.css.map",
+    "static/js/2.731e5357.chunk.js.LICENSE.txt": "/RE-AniShowList/asl-front/static/js/2.731e5357.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7055451c.js",
+    "static/js/2.731e5357.chunk.js",
+    "static/css/main.0ac8d805.chunk.css",
+    "static/js/main.a6457f00.chunk.js"
+  ]
+}
