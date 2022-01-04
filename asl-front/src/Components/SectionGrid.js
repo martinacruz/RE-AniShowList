@@ -36,7 +36,7 @@ const SectionGrid = () => {
   }, []);
 
   function displayShows(list) {
-    return list.slice(0, 10).map((show) => (
+    return list.slice(0, 20).map((show) => (
       <div className="show" key={show.id}>
         <h3>{show.title}</h3>
         <img src={show.image_url} />
